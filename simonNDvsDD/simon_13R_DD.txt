@@ -1,0 +1,28 @@
+Calculate full ddt explicitly
+
+Rounds: 1, Acc: 1, tpr:1, tnr:1, max pr: 0
+
+Rounds: 2, Acc: 1, tpr:1, tnr:1, max pr: -2
+
+Rounds: 3, Acc: 1, tpr:1, tnr:1, max pr: -4
+
+Rounds: 4, Acc: 1, tpr:1, tnr:0.999999, max pr: -7.29956
+
+Rounds: 5, Acc: 0.999968, tpr:1, tnr:0.999936, max pr: -9.29956
+
+Rounds: 6, Acc: 0.991788, tpr:0.999485, tnr:0.98409, max pr: -14.1052
+
+Rounds: 7, Acc: 0.84648, tpr:0.864131, tnr:0.828829, max pr: -17.5973
+
+Rounds: 8, Acc: 0.662835, tpr:0.5781, tnr:0.74757, max pr: -21.3833
+
+Rounds: 9, Acc: 0.568275, tpr:0.469143, tnr:0.667407, max pr: -23.2871
+
+Rounds: 10, Acc: 0.520278, tpr:0.500196, tnr:0.540359, max pr: -24.4317
+
+Rounds: 11, Acc: 0.504395, tpr:0.485158, tnr:0.523632, max pr: -25.1342
+
+Rounds: 12, Acc: 0.50079, tpr:0.489562, tnr:0.512017, max pr: -26.9389
+
+Rounds: 13, Acc: 0.500127, tpr:0.4827, tnr:0.517555, max pr: -28.5746
+Done.
